@@ -1,0 +1,4 @@
+
+# AI Image Generator Chatbot
+# This project uses Node.js 18+.
+# No Python dependencies are required.
